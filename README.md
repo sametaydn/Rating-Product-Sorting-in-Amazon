@@ -1,5 +1,3 @@
-# Rating-Product-Sorting-in-Amazon
-
 ###################################################
 # PROJE: Rating Product & Sorting Reviews in Amazon
 ###################################################
