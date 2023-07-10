@@ -1,7 +1,8 @@
 
 # PROJECT: Rating Product & Sorting Reviews in Amazon
 
-![Amazon](https://github.com/sametaydn/Rating-Product-Sorting-in-Amazon/assets/53154449/a3287ff8-2cae-4870-b456-00a3dcbbbdb1)
+<img width="1159" alt="Screenshot 2023-07-11 at 12 03 00 AM" src="https://github.com/sametaydn/Rating-Product-Sorting-in-Amazon/assets/53154449/99afc985-fad6-4863-8f0f-560763bbfd94">
+
 
 
 # Business Problem
